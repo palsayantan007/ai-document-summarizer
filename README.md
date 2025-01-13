@@ -118,7 +118,7 @@ ai-document-summarizer/
 ## Sample Output
 Below is an example of how the app looks when parsing a document and asking a question:
 
-[![Sample Output](./Screenshot (15).png)](https://github.com/palsayantan007/ai-document-summarizer/blob/2cb0ced8882df2bbbb1ac0e925fdb96e9751e0af/Screenshot%20(15).png)
+[[![Sample Output](./Screenshot (15).png)](https://github.com/palsayantan007/ai-document-summarizer/blob/2cb0ced8882df2bbbb1ac0e925fdb96e9751e0af/Screenshot%20(15).png)](https://github.com/palsayantan007/ai-document-summarizer/blob/main/Screenshot%20(15).png?raw=true)
 
 
 
