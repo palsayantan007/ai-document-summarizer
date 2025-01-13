@@ -119,7 +119,8 @@ ai-document-summarizer/
 Below is an example of how the app looks when parsing a document and asking a question:
 
 
-![Uploading Screenshot (15).png…]()
+![Screenshot (15)](https://github.com/user-attachments/assets/46b7720b-e260-4465-adea-72f45198b113)
+
 
 
 
