@@ -18,7 +18,7 @@ const FileUpload = ({ onTextParsed }) => {
         formData.append('file', file);
 
         try {
-            const response = await axios.post('http://localhost:5000/upload', formData, {
+            const response = await axios.post('http://localhost:8080/upload', formData, {
                 headers: { 'Content-Type': 'multipart/form-data' },
             });
             onTextParsed(response.data.text);

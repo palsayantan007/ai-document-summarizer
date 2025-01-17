@@ -55,7 +55,7 @@ cd ai-document-summarizer
    ```bash
    node server.js
    ```
-   The backend server will run on `http://localhost:5000`.
+   The backend server will run on `http://localhost:8080`.
 
 #### 3. Setup Frontend
 1. Navigate to the frontend directory:
@@ -128,7 +128,7 @@ Below is an example of how the app looks when parsing a document and asking a qu
 
 ## Troubleshooting
 1. **Backend Not Starting**:
-   - Ensure no other processes are using port `5000`.
+   - Ensure no other processes are using port `8080`.
    - Run `npm install` in the backend directory.
 
 2. **Frontend Not Starting**:
